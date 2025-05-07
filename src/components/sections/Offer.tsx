@@ -40,7 +40,6 @@ export const Offer: React.FC = () => {
 
         <div className="text-center space-y-4 mb-10">
           <p className="text-xl font-medium">Value: 2x your clientelle in 3 months</p>
-          <p className="text-2xl font-bold text-blue-800">Cost: $2,000/month (90-day commitment)</p>
         </div>
 
         <div className="text-center">
